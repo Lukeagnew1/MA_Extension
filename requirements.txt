@@ -1,0 +1,5 @@
+ipywidgets
+yfinance
+pandas
+requests
+matplotlib
